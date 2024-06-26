@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **Artificai intelligence,Hope to Sill**
+- 🌱 I’m currently learning **Artificai intelligence,Hope to Skill**
 
 - 👯 I’m looking to collaborate on **Machine learning project**
 
